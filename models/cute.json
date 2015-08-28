@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cute pup",
+    "location": "/images/glasses_pup.jpg"
+  },
+  {
+    "name": "cute panda",
+    "location": "/images/panda.jpeg"
+  },
+  {
+    "name": "cute penguins",
+    "location": "/images/penguins.jpeg"
+  },
+  {
+    "name": "cute piglet",
+    "location": "/images/piglet.jpeg"
+  },
+  {
+    "name": "cute rabbit",
+    "location": "/images/rabbit.jpeg"
+  },
+  {
+    "name": "cute seal",
+    "location": "/images/seal_of_approval.jpg"
+  }
+]
